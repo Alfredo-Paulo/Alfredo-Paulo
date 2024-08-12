@@ -15,10 +15,7 @@
   <img src="https://profile-counter.glitch.me/Alfredo-Paulo/count.svg" />
 </p>
 
-
-
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme para discutir oportunidades de colaboración o cualquier pregunta que puedas tener.
 
