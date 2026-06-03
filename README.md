@@ -15,4 +15,4 @@
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme para discutir oportunidades de colaboración o cualquier pregunta que puedas tener.
 
- # Alfredo Ramirez de 31 años.  Python in Full Stack .Databases with SQL Harvard Extension School 
+ # Alfredo Ramirez de 31 años.  Python in Full Stack .Databases with SQL Harvard Extension School.
